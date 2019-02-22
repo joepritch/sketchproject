@@ -46,3 +46,12 @@ The site should be very clear on:
   the pricing
   the type of people welcome to work there (all)
   the quality of the space and amenities
+
+From what I can tell, the potential clients for this company won't be needing to use their website as a service, and will likely only use the website to find out information about the space, and sign up to become a member of the space. The site shouldn't need the potential customers to create an account for anything other than managing their payment method (changing payment methods/canceling their membership). If the company requests, a user forum could be added where their clients can converse with each other about topics relevant to the space, though the same could be accomplished by inviting customers to a slack channel once they become members. The latter option may be more ideal for the customers because many of them likely use slack already, and most people would probably prefer to not add another form of social media, especially with how limited the scope of possible connections would be (only other members of the space).
+
+
+
+
+I am a artist, I want to be sure that this space will have other artists like me, and cater to my unique needs so that I feel welcome and part of a community
+
+I am a writer,
