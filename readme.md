@@ -8,6 +8,7 @@ Pages requested:
   contact page
   amenities page
   pricing/membership page
+    show location of space on map
 
   navbar features a large and inviting "Join Now" button
 
@@ -23,6 +24,7 @@ Potential Users:
     artists
     writers
     more traditional business people
+    Companies
 
   Each requires:
     working spaces including desks, chairs
@@ -39,6 +41,9 @@ Potential Users:
   Writers:
     printers
 
+  Companies:
+    dedicated group working areas
+
 The site will likely be visited by a majority of people who are more technically inclined, but should still be simple enough and intuitive enough to be navigated by those less technically inclined.
 
 The site should be very clear on:
@@ -49,9 +54,19 @@ The site should be very clear on:
 
 From what I can tell, the potential clients for this company won't be needing to use their website as a service, and will likely only use the website to find out information about the space, and sign up to become a member of the space. The site shouldn't need the potential customers to create an account for anything other than managing their payment method (changing payment methods/canceling their membership). If the company requests, a user forum could be added where their clients can converse with each other about topics relevant to the space, though the same could be accomplished by inviting customers to a slack channel once they become members. The latter option may be more ideal for the customers because many of them likely use slack already, and most people would probably prefer to not add another form of social media, especially with how limited the scope of possible connections would be (only other members of the space).
 
+That being said I believe the main features of the site that are relevant to the potential customers are to accurately represent the space itself and make it easy to sign up. I can only do so much to make the space seem enticing to prospective customers, but if the space does not have a specific feature/amenity that said prospective client wants, I cannot do anything about that. That is why I have to make sure to list every single amenity that the space features, while still keeping the site easy to scan so that the customers can quickly find the information relevant to them.
+
+
+EDIT:   
+  The needs of companies vary from the needs of individuals. Likely they have their own way to manage the attendance of their employees, but a potential feature for managers would be an interface to manage their employees if needed.
 
 
 
-I am a artist, I want to be sure that this space will have other artists like me, and cater to my unique needs so that I feel welcome and part of a community
+"I am a artist (replace artist with literally any other professional), I want to be sure that this space will have other artists (professionals) like me, and cater to my unique needs so that I feel welcome and part of a community"
 
-I am a writer,
+
+Research:
+
+  The two website they linked both feature large images of the space itself, as well as a few images that are of the location of the space.
+
+  A lot of these types of websites list the companies that work in their spaces, however this company is new and didnt mention and companies that work there yet.
