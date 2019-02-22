@@ -70,3 +70,15 @@ Research:
   The two website they linked both feature large images of the space itself, as well as a few images that are of the location of the space.
 
   A lot of these types of websites list the companies that work in their spaces, however this company is new and didnt mention and companies that work there yet.
+
+  Multiple plans are offered for different sized businesses
+
+  clean layouts, avoid clutter while still having a lot of information
+
+  While doing research I need to remember to keep in mind the smaller size of the company that I am building this site for, they definitely appear have a smaller space than some of their competitors, seemingly have only one location, and are more focused on the sense of community and human element of the workspace.
+
+  A lot of the other sites for larger companies have a very white layout, that to me conveys a corporate, sanitized, personality (I am also generally not a fan of all white layouts), I think that for this client a woodgrain background and earthy tones may be more suitable to convey their personality. Less is more though and the color white definitely has its place on a professional website.
+
+  In the pictures the company sent me, they also appear to have quite a few plants throughout the space, further supporting my idea to have more of a nature feel to the website. I also notice a lot of pink, teal, and green in the space, so I think those would be good colors to use on the site.
+
+  The color palette I'm thinking of using so far is pink, teal, green, brown and white.
