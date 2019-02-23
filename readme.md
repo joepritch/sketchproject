@@ -88,3 +88,13 @@ Research:
   In the pictures the company sent me, they also appear to have quite a few plants throughout the space, further supporting my idea to have more of a nature feel to the website. I also notice a lot of pink, teal, and green in the space, so I think those would be good colors to use on the site.
 
   The color palette I'm thinking of using so far is pink, teal, green, brown and white.
+
+
+To-do:
+
+  Design logo (none was provided)
+
+  Replace fonts
+
+  make theme more consistent
+    narrow down color palette
