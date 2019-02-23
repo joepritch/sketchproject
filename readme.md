@@ -1,8 +1,13 @@
-NOTE: The following readme is temporarily unfinished and unformatted. It is written from the perspective of a freelance web developer who has just landed a job designing a website for a co-working space company.
+## Untitled Sketch Project
+#### By Joe Pritchett
+
+NOTE: The following readme is temporarily unfinished and unformatted. It is written from the perspective of a freelance web developer who has just landed a job designing a website for a co-working company.
 
 These are the notes I would take throughout this process.
 
 ~
+
+## Description
 
 This project is a website for a co-working company. The target users are partially the company itself but mainly the independent, professional individuals, who are looking for a space to do their work. The company wants the website to reflect their unique personality, that is luxurious, cool, high-end, welcoming, funky, local, fun, and less corporate than other companies in this field. They want to cater to more people than just people in tech and coders, opting to be accessible for more types of people such as artists, day traders, writers, - essentially any professional and independent individual. The company has also requested that the website reflects their amenities, those being their on-site coffee counter, communal AND private offices, high-speed internet, printing and faxing services, and their optional Thursday group activities.
 
@@ -21,7 +26,7 @@ Pages requested:
 Additional pages:
   about page
 
-
+## User Stories
 
 Potential Users:
 
