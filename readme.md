@@ -94,6 +94,13 @@ Research:
 
   The color palette I'm thinking of using so far is pink, teal, green, brown and white.
 
+## Screenshots
+
+Here I have digitally stitched together three images to show the full layout.
+<img src="img/landingPageSketch.png" alt="drawing" width="600"/>
+
+
+<img src="img/wireframe.png" alt="wireframe" width="600"/>
 
 To-do:
 
@@ -101,5 +108,11 @@ To-do:
 
   Replace fonts
 
-  make theme more consistent
+  Make theme more consistent
     narrow down color palette
+    
+  Replace placeholder text
+  
+  Add links to navbar and footer
+  
+  Copy formatting, styling, and symbols from the landing page for use on the other pages.
