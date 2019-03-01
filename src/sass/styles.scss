@@ -1,1 +1,45 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
 
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100px;
+  width: 100%;
+  background-color: #383c3b;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  align-items: center;
+  img {
+    height: 80%;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .logo {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    align-items: center;
+  }
+  .navLinks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    max-width: 750px;
+    height: 100%;
+  }
+  .joinButton {
+    display: flex;
+    padding-left: 25px;
+    padding-right: 25px;
+    height: 100%;
+    align-items: center;
+    background-color: #50e3c2;
+  }
+}
