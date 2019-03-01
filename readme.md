@@ -97,6 +97,12 @@ Research:
 
 To-do:
 
+  finish wireframes
+
+  prototype
+
+  code
+
   Design logo (none was provided)
 
   Replace fonts
