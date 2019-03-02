@@ -71,7 +71,21 @@ That being said I believe the main features of the site that are relevant to the
 EDIT:   
   The needs of companies vary from the needs of individuals. Likely they have their own way to manage the attendance of their employees, but a potential feature for managers would be an interface to manage their employees if needed.
 
+Personas:
 
+  user A:
+    is an individual seeking a working space for themselves.
+    wants a shared space to network with other individuals while working.
+    doesnt want to be surrounded by companies or feel isolated.
+    
+    advertise the welcoming environment of the coworking space, show the large communal areas frequently throughout the site, begin pricing plans with the individual plan first.
+
+  user B:
+    is a manager looking for a space for their team.
+    is concerned about the security of their employees, and the resources available to them.
+    
+    mention all of the available resources in the amenities page, mention any on-site security features the space has. List the amount of seats available in each tier of the company price plan.
+  
 
 "I am a artist (replace artist with literally any other professional), I want to be sure that this space will have other artists (professionals) like me, and cater to my unique needs so that I feel welcome and part of a community"
 
