@@ -47,7 +47,7 @@ Additional pages:
     serve: <br>
       Add reviews to landing page, live chat button, mobile layout
 
-"As a manager of a small company, I need to be sure the co-working space I choose has a certain standard of quality, so I can be sure I chose the best for my employees."
+"As a manager of a small company, I need to be sure the co-working space I choose has a certain standard of quality, so I can be sure I chose the best space for my employees."
 
 ## Screenshots
 
