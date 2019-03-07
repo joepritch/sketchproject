@@ -26,26 +26,26 @@ Additional pages:
 
 ## User Personas/Stories
 
-  user A: Adam
-    needs:
-    a clean and simple layout that is eay to navigate
-    clear information on costs and membership plans
-    hates:
-    cluttered/confusing websites
-    too many options
-    serve:
-    Avoid cluttering site with lots of links, maintain site organization and natural flow
+  user A: Adam <br>
+    needs: <br>
+      a clean and simple layout that is eay to navigate <br>
+      clear information on costs and membership plans <br>
+    hates: <br>
+      cluttered/confusing websites <br>
+      too many options <br>
+    serve: <br>
+      Avoid cluttering site with lots of links, maintain site organization and natural flow
     
   "As an independant contractor, I need a simple, easy-to-use site, so I can find the information relevant to me quickly and make an informed a decision." 
 
-  user B: Bernice
-    needs:
-    reassurance/trust with the brand
-    quick access to customer support
-    hates:
-    lack of mobile support
-    serve:
-    Add reviews to landing page, live chat button, mobile layout
+  user B: Bernice <br>
+    needs: <br>
+      reassurance/trust with the brand <br>
+      quick access to customer support <br>
+    hates: <br>
+      lack of mobile support <br>
+    serve: <br>
+      Add reviews to landing page, live chat button, mobile layout
 
 "As a manager of a small company, I need to be sure the co-working space I choose has a certain standard of quality, so I can be sure I chose the best for my employees."
 
